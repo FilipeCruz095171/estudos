@@ -66,6 +66,7 @@ Esta é uma lista de consulta rápida dos comandos mais utilizados.
 | `git merge [nome-branch]` | Mescla (une) o histórico da branch especificada na sua branch atual. |
 | `git diff` | Mostra as diferenças entre os arquivos modificados e a última versão commitada. |
 | `git remote -v` | Lista os repositórios remotos configurados. |
+| `git reset` | limpa os arquivos no staging. |
 
 ---
 
