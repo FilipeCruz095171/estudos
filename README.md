@@ -55,7 +55,7 @@ Os materiais neste repositório são, em grande parte, reflexos e aprofundamento
 
 A estrutura do repositório foi pensada para facilitar a busca por conteúdo. Atualmente, ele está organizado da seguinte forma:
 
-* **📚 `GUI_GIT_GITHUB.md`**: Um guia completo com os comandos e conceitos essenciais de Git e GitHub para o dia a dia.
+* **📚 `GUIA_GIT_GITHUB.md`**: Um guia completo com os comandos e conceitos essenciais de Git e GitHub para o dia a dia.
 * **💻 `guia-terminal.md`**: Um manual prático com comandos de terminais (Bash, PowerShell, etc.) para navegação e manipulação de arquivos.
 * **🐍 `Notebooks de Python` (Em breve)**: Pasta destinada a abrigar projetos e estudos em formato de Jupyter Notebooks, com foco em análise de dados e IA.
 * **🚀 `Projetos Pessoais` (Em breve)**: Seção para projetos maiores e mais elaborados que desenvolverei ao longo dos meus estudos.
