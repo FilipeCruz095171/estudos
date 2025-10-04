@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge"/>
   <img src="https://img.shields.io/github/last-commit/FilipeCruz095171/treinamentos?style=for-the-badge&logo=github" alt="Last Commit Badge"/>
-  <a href="https://www.linkedin.com/in/SEU_USUARIO_AQUI/">
+  <a href="https://www.linkedin.com/in/andre-filipe-cruz-35442112/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -70,8 +70,11 @@ Estas são algumas das tecnologias com as quais estudo e trabalho, e que você e
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
+  <a href="https://www.ibm.com/db2" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/db2/db2-original.svg" alt="db2" width="40" height="40"/>
   </a>
   <a href="https://www.tensorflow.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> 
@@ -102,7 +105,7 @@ Este repositório está em constante evolução. Meus próximos passos planejado
 Sinta-se à vontade para se conectar comigo e trocar ideias!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_USUARIO_AQUI/" target="_blank">
+  <a href="https://www.linkedin.com/in/andre-filipe-cruz-35442112/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
